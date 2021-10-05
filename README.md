@@ -1,2 +1,2 @@
 # Dice-
-Built on  HTML, CSS and Javascript
+Built on  HTML, CSS 
